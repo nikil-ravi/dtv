@@ -1,6 +1,6 @@
 # Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization
 
-This is the official repo for
+This is a modification of the official repo for
 
 [**Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization**](http://arxiv.org/abs/2403.18120) (ICLR 2024)
 
